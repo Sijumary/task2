@@ -1,2 +1,2 @@
 [web]
-3.238.81.102 slave ansible_ssh_host=ec2-user
+172.32.28.21 ansible_user=ec2-user
